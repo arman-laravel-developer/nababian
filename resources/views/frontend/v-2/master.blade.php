@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title')</title>
     <link rel="icon" href="{!! asset('setting/'.$setting->logo) !!}"/>
+    <meta name="facebook-domain-verification" content="69j2u8hflukrrupwfmhwqfr7r7djdp" />
     <!-- Pavicon ICon -->
     @include('frontend.v-2.includes.style')
 <!-- Google Tag Manager -->
